@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\bin\Debug\net7.0\exam-score-app.exe
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\bin\Debug\net7.0\exam-score-app.deps.json
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\bin\Debug\net7.0\exam-score-app.runtimeconfig.json
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\bin\Debug\net7.0\exam-score-app.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\bin\Debug\net7.0\exam-score-app.pdb
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\refint\exam-score-app.dll
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.pdb
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\exam-score-app.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C\CsharpProjects\exam-score-app\obj\Debug\net7.0\ref\exam-score-app.dll
